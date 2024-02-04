@@ -1,0 +1,60 @@
+{
+  "articlesData": [
+   
+    {
+      "id": 3,
+      "title": "Data Analytics : key to Decisions and Business Grow",
+      "date": "18/04/2024",
+      "dateText": "2024-04-18",
+      "views": 100,
+      "likes": 55,
+      "description": "test is going on",
+
+      "img": "/images/3.webp",
+      "category": "design",
+      "writer": "Ali Reza",
+      "text": "  Parameters   render: The render function for your component. React calls this function with the props and ref that your component received from its parent. The JSX you return will be the output of your component.Returns forwardRef returns a React component that you can render in JSX. Unlike React components defined as plain functions, a component returned by forwardRef is also able to receive a ref prop. Caveats In Strict Mode, React will call your render function twice in order to help you find accidental impurities. This is development-only behavior and does not affect production. If your render function is pure (as it should be), this should not affect the logic of your component. The result from one of the calls will be ignored. render function forwardRef accepts a render function as an argument. React calls this function with props and ref:"
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Data Analytics : key to Decisions and Business Grow",
+      "date": "18/04/2024",
+      "dateText": "2024-04-18",
+      "views": 100,
+      "likes": 55,
+      "description": "test is going on",
+
+      "img": "/images/4.webp",
+      "category": "design",
+      "writer": "Ali Reza",
+      "text": "  Parameters   render: The render function for your component. React calls this function with the props and ref that your component received from its parent. The JSX you return will be the output of your component.Returns forwardRef returns a React component that you can render in JSX. Unlike React components defined as plain functions, a component returned by forwardRef is also able to receive a ref prop. Caveats In Strict Mode, React will call your render function twice in order to help you find accidental impurities. This is development-only behavior and does not affect production. If your render function is pure (as it should be), this should not affect the logic of your component. The result from one of the calls will be ignored. render function forwardRef accepts a render function as an argument. React calls this function with props and ref:"
+    },
+    {
+      "title": "Data Analytics : key to Decisions and Business Grow",
+      "date": "10/10/2024",
+      "dateText": "2024-10-10",
+      "views": 200,
+      "likes": 23,
+      "description": "test is going on",
+      "id": 1,
+      "img": "/images/1.webp",
+      "category": "tech",
+      "writer": "Ali Reza",
+      "text": "  Parameters   render: The render function for your component. React calls this function with the props and ref that your component received from its parent. The JSX you return will be the output of your component.Returns forwardRef returns a React component that you can render in JSX. Unlike React components defined as plain functions, a component returned by forwardRef is also able to receive a ref prop. Caveats In Strict Mode, React will call your render function twice in order to help you find accidental impurities. This is development-only behavior and does not affect production. If your render function is pure (as it should be), this should not affect the logic of your component. The result from one of the calls will be ignored. render function forwardRef accepts a render function as an argument. React calls this function with props and ref:"
+    },
+    {
+      "title": "Data Analytics : key to Decisions and Business Grow",
+      "date": "14/05/2024",
+      "dateText": "2024-05-14",
+      "views": 260,
+      "likes": 60,
+      "description": "test is going on",
+      "id": 2,
+      "img": "/images/2.webp",
+      "category": "ai",
+      "writer": "Ali Reza",
+      "text": "  Parameters   render: The render function for your component. React calls this function with the props and ref that your component received from its parent. The JSX you return will be the output of your component.Returns forwardRef returns a React component that you can render in JSX. Unlike React components defined as plain functions, a component returned by forwardRef is also able to receive a ref prop. Caveats In Strict Mode, React will call your render function twice in order to help you find accidental impurities. This is development-only behavior and does not affect production. If your render function is pure (as it should be), this should not affect the logic of your component. The result from one of the calls will be ignored. render function forwardRef accepts a render function as an argument. React calls this function with props and ref:"
+    }
+  ]
+}
