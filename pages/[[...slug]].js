@@ -25,7 +25,7 @@ export default function Blog({ articlesData }) {
   
   const selectOptionCallBack=(value)=>{
     router.replace({
-      query: { order: value },
+      query: { ...router.query, order: value },
    });
 
   }
